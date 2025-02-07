@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-21)
+## Unreleased (2025-02-07)
+
+<section class="features">
+
+### Features
+
+-   [`01d6b11`](https://github.com/stdlib-js/stdlib/commit/01d6b118e38c25ca5be80e842edc64d08deab22b) - add C implementation for `stats/base/dists/beta/kurtosis` [(#4045)](https://github.com/stdlib-js/stdlib/pull/4045)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3425](https://github.com/stdlib-js/stdlib/issues/3425)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`01d6b11`](https://github.com/stdlib-js/stdlib/commit/01d6b118e38c25ca5be80e842edc64d08deab22b) - **feat:** add C implementation for `stats/base/dists/beta/kurtosis` [(#4045)](https://github.com/stdlib-js/stdlib/pull/4045) _(by Neeraj Pathak)_
 -   [`9394549`](https://github.com/stdlib-js/stdlib/commit/939454926b745326a5b14bcd0924a0526baa93da) - **bench:** refactor random number generation in `stats/base/dists/beta` [(#4837)](https://github.com/stdlib-js/stdlib/pull/4837) _(by Karan Anand)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Neeraj Pathak
 
 </section>
 
