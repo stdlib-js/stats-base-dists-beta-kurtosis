@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-08)
+## Unreleased (2025-04-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`cb703c8`](https://github.com/stdlib-js/stdlib/commit/cb703c831f5d3fbfc90231daa401bc317e00a421) - **chore:** address commit comments [(#5100)](https://github.com/stdlib-js/stdlib/pull/5100) _(by Saurabh Singh, Philipp Burckhardt)_
 -   [`01d6b11`](https://github.com/stdlib-js/stdlib/commit/01d6b118e38c25ca5be80e842edc64d08deab22b) - **feat:** add C implementation for `stats/base/dists/beta/kurtosis` [(#4045)](https://github.com/stdlib-js/stdlib/pull/4045) _(by Neeraj Pathak)_
 -   [`9394549`](https://github.com/stdlib-js/stdlib/commit/939454926b745326a5b14bcd0924a0526baa93da) - **bench:** refactor random number generation in `stats/base/dists/beta` [(#4837)](https://github.com/stdlib-js/stdlib/pull/4837) _(by Karan Anand)_
